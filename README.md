@@ -1,4 +1,4 @@
-# ICQFiestaBot
+# FiestaBot
 
 [Генератор ванили](https://icq.im/Vanilla_bot)
 

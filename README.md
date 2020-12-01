@@ -1,6 +1,6 @@
 # [Генератор ванили](https://icq.im/Vanilla_bot)
 
-<a href="https://icq.im/Vanilla_bot"><img src="https://github.com/ICQ-BOTS/vanilla_bot/blob/main/blanket.png" width="100" height="100"></a>
+<a href="https://icq.im/Vanilla_bot"><img src="https://github.com/ICQ-BOTS/vanilla_bot/blob/main/vanilla_bot.png" width="100" height="100"></a>
 
 
 # Оглавление 

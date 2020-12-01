@@ -24,7 +24,7 @@ tarantoolctl start init.lua
 ```
 > Файл из папки scheme нужно перекинуть в /etc/tarantool/instances.available
 
-3. Вставляем свои данные в config.ini - токен
+3. Вставляем свои данные в config.ini
 
 4. Запуск бота!
 ```bash
